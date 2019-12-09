@@ -1,0 +1,9 @@
+*.ml*.d
+*.cm[ix]*
+Makefile.coq*
+*~
+*.[ao]
+.coqdeps.d
+*.vo
+*.glob
+*.aux

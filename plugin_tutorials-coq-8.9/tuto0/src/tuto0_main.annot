@@ -1,0 +1,11 @@
+"src/tuto0_main.ml" 1 0 4 "src/tuto0_main.ml" 1 0 11
+type(
+  string
+)
+ident(
+  def message "src/tuto0_main.ml" 1 0 28 "src/tuto0_main.ml" 1 0 -1
+)
+"src/tuto0_main.ml" 1 0 14 "src/tuto0_main.ml" 1 0 28
+type(
+  string
+)
